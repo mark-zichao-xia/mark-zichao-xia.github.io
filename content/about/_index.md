@@ -1,6 +1,6 @@
 ---
 title: "About"
-hero_image: "hero.jpg"
+hero_image: "school.jpg"
 nometadata: true
 notags: true
 noshare: true

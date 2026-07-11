@@ -1,5 +1,5 @@
 ---
-hero_image: "hero.jpg"
+hero_image: "school.jpg"
 ---
 
 <blockquote>
@@ -12,8 +12,7 @@ Try to learn something about everything and everything about something.
 I am a Ph.D. student in the Department of Computing at
 <strong>The Hong Kong Polytechnic University</strong> (since Sept 2025).
 I received my Master's degree in Computer Technology and my Bachelor's degree in
-Information Security from the School of Electronic Information and Electrical
-Engineering at <strong>Shanghai Jiao Tong University</strong>.
+Information Security from <strong>Shanghai Jiao Tong University</strong>.
 
 My research lies at the intersection of <strong>machine learning systems</strong>,
 <strong>AI compilers</strong>, and <strong>software reliability</strong>. I am
