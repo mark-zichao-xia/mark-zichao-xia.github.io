@@ -7,6 +7,14 @@ noshare: true
 nocomments: true
 ---
 
+<blockquote>
+Try to learn something about everything and everything about something.
+<cite>Thomas Henry Huxley (1825 – 1895)</cite>
+</blockquote>
+
+<p>He is very fortunate to be advised by Prof. Chen of the DDST Lab. He was previously
+advised by Prof. Liu from the School of Cyber Security, Shanghai Jiao Tong University.</p>
+
 <h2>Education</h2>
 
 <ul>
@@ -24,6 +32,14 @@ nocomments: true
     School of Electronic Information and Electrical Engineering, Sept 2017 – Jun 2022<br>
     GPA 3.5/4.3, Weighted average 84.7
   </li>
+</ul>
+
+<h2>Teaching</h2>
+
+<p>Teaching Assistant @ Shanghai Jiao Tong University</p>
+<ul>
+  <li>CS 7341: Algorithmic Analysis, 2024 Spring</li>
+  <li>CS 2309: Problem Solving and Practice, 2023 Fall</li>
 </ul>
 
 <h2>Awards &amp; Honors</h2>

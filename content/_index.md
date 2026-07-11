@@ -2,6 +2,11 @@
 hero_image: "hero.jpg"
 ---
 
+<blockquote>
+Try to learn something about everything and everything about something.
+<cite>Thomas Henry Huxley (1825 – 1895)</cite>
+</blockquote>
+
 <h2>About Me</h2>
 
 I am a Ph.D. student in the Department of Computing at
@@ -15,6 +20,9 @@ My research lies at the intersection of <strong>machine learning systems</strong
 particularly interested in high-performance operator fusion, tensor compiler
 optimization, and detecting and diagnosing numerical deviations introduced by
 deep learning compilers.
+
+He is very fortunate to be advised by Prof. Chen of the DDST Lab. He was previously
+advised by Prof. Liu from the School of Cyber Security, Shanghai Jiao Tong University.
 
 <h2>News</h2>
 

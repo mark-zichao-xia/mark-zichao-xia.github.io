@@ -276,7 +276,9 @@ nav li ul, nav li ol {
 }
 
 .navbar-hero {
-  height: 30px;
+  height: auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .navbar-hero nav, .navbar-hero a {
@@ -290,9 +292,27 @@ nav li ul, nav li ol {
   color: #fff;
 }
 
+.navbar-hero a {
+  display: inline-block;
+
+  margin: 4px 2px;
+  padding: 6px 14px;
+
+  text-decoration: none;
+
+  border-radius: 4px;
+  background-color: #05668d;
+
+  transition: background-color .2s ease;
+}
+
+.navbar-hero a:hover {
+  background-color: #044f6e;
+}
+
 @media (max-width: 64em) {
   .navbar-hero {
-    height: 30px;
+    height: auto;
   }
   .navbar-hero a {
     color: #fff;
