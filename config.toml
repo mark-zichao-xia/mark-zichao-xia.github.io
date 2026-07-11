@@ -64,7 +64,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/mark-zichao-xia"
+    link = "//github.com/hxzd5568"
     text = "GitHub"
 
   [[params.social]]
