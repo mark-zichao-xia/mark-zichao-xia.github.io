@@ -1,0 +1,86 @@
+# The URL of your website.
+baseurl = "https://mark-zc-xia.github.io/"
+
+# Title of your site
+title = "Zichao Xia"
+
+# Your copyright notice - appears in site footer.
+copyright = "&copy; Zichao Xia 2026"
+
+theme = "minimal-academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 10
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+[blackfriday]
+  hrefTargetBlank = true
+  fractions = true
+  smartypants = true
+
+[params]
+  # Your details.
+  name = "Zichao Xia"
+  bio = "PhD student in Computing. Research in ML systems, AI compilers, and software reliability."
+
+  avatar = "portrait.jpg"
+
+  location = "Hong Kong"
+
+  date_format = "Jan 2, 2006"
+  time_format = "3:04 PM"
+
+  comment_count = false
+
+  sharing = false
+
+  privacy_pack = false
+
+  # Social links
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:hxzd55681896@sjtu.edu.cn"
+    text = "Email"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/hxzd5568"
+    text = "GitHub"
+
+  [[params.social]]
+    icon = "graduation-cap"
+    icon_pack = "fa"
+    link = "//scholar.google.com/"
+    text = "Google Scholar"
+
+  # Header menu links
+  [[params.menu]]
+    link = "/"
+    text = "Home"
+
+  [[params.menu]]
+    link = "/publications"
+    text = "Publications"
+
+  [[params.menu]]
+    link = "/research"
+    text = "Research"
+
+  [[params.menu]]
+    link = "/about"
+    text = "About"
