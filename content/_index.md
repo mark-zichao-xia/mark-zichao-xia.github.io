@@ -19,8 +19,7 @@ particularly interested in high-performance operator fusion, tensor compiler
 optimization, and detecting and diagnosing numerical deviations introduced by
 deep learning compilers.
 
-He is very fortunate to be advised by Prof. Chen of the DDST Lab. He was previously
-advised by Prof. Liu from the School of Cyber Security, Shanghai Jiao Tong University.
+He is very fortunate to be advised by Prof. ZHANG Zhaorui. He was previously advised by Prof. CHEN Yuting, Prof. LIU Gongshen, Prof. WANG Shilin, and Prof. MENG Kui from Shanghai Jiao Tong University.
 
 <h2>News</h2>
 
