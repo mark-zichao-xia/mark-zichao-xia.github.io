@@ -1,6 +1,4 @@
 ---
-hero_image: "school.jpg"
----
 
 <blockquote>
 Try to learn something about everything and everything about something.

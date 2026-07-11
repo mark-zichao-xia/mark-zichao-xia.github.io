@@ -68,7 +68,7 @@ html {
   min-height: 100%;
 }
 body {
-  font-family: "Open Sans";
+  font-family: "Times New Roman", Times, serif;
   line-height: 1.6;
 
   margin: 0;
@@ -285,11 +285,11 @@ nav li ul, nav li ol {
   font-family: "Merriweather";
   font-size: 1em;
 
-  color: #fff;
+  color: #000;
 }
 
 .navbar-hero nav {
-  color: #fff;
+  color: #000;
 }
 
 .navbar-hero a {
@@ -301,13 +301,12 @@ nav li ul, nav li ol {
   text-decoration: none;
 
   border-radius: 4px;
-  background-color: #05668d;
 
   transition: background-color .2s ease;
 }
 
 .navbar-hero a:hover {
-  background-color: #044f6e;
+  background-color: #e8e8e8;
 }
 
 @media (max-width: 64em) {
@@ -315,7 +314,7 @@ nav li ul, nav li ol {
     height: auto;
   }
   .navbar-hero a {
-    color: #fff;
+    color: #000;
   }
 }
 
@@ -340,10 +339,7 @@ nav li ul, nav li ol {
     -webkit-transform: translate3d(0, 0, 0);
             transform: translate3d(0, 0, 0);
 
-    color: #fff;
-  }
-  .masthead-hero {
-    margin-bottom: -88px;
+    color: #000;
   }
 }
 @media (min-width: 64em) {
@@ -369,7 +365,7 @@ nav li ul, nav li ol {
   margin-bottom: 0;
 }
 .sidebar p, .sidebar li {
-  font-family: "Open Sans"
+  font-family: "Open Sans";
   line-height: 1.5;
   font-size: .9em;
 }

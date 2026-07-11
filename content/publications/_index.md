@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-hero_image: "school.jpg"
 nometadata: true
 notags: true
 noshare: true
