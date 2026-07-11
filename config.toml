@@ -2,7 +2,7 @@
 baseurl = "https://mark-zichao-xia.github.io/"
 
 # Title of your site
-title = "Zichao Xia"
+title = "Zichao Xia（夏子超）"
 
 # Your copyright notice - appears in site footer.
 copyright = "&copy; Zichao Xia 2026"
@@ -38,7 +38,7 @@ enableGitInfo = false
 
 [params]
   # Your details.
-  name = "Zichao Xia"
+  name = "Zichao Xia（夏子超）"
   bio = "PhD student in Computing. Research in ML systems, AI compilers, and software reliability."
 
   avatar = "icon2.jpg"
