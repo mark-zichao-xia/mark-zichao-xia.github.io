@@ -31,6 +31,11 @@ enableGitInfo = false
   fractions = true
   smartypants = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   # Your details.
   name = "Zichao Xia"
@@ -59,7 +64,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/hxzd5568"
+    link = "//github.com/mark-zichao-xia"
     text = "GitHub"
 
   [[params.social]]
