@@ -70,7 +70,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "graduation-cap"
     icon_pack = "fa"
-    link = "//scholar.google.com/"
+    link = "//scholar.google.com/citations?user=cEoSBV0AAAAJ&hl=en"
     text = "Google Scholar"
 
   # Header menu links
