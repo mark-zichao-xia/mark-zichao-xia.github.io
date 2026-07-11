@@ -60,6 +60,6 @@ nocomments: true
 
 <h2>Contact</h2>
 
-<p>Email: hxzd55681896@sjtu.edu.cn<br>
+<p>Email: zichao.xia@connect.polyu.hk<br>
 Phone: +86 176 2189 6094<br>
 GitHub: <a href="https://github.com/hxzd5568/">github.com/hxzd5568</a></p>

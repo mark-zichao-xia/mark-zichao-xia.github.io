@@ -1,5 +1,5 @@
 # The URL of your website.
-baseurl = "https://mark-zc-xia.github.io/"
+baseurl = "https://mark-zichao-xia.github.io/"
 
 # Title of your site
 title = "Zichao Xia"
@@ -53,7 +53,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hxzd55681896@sjtu.edu.cn"
+    link = "mailto:zichao.xia@connect.polyu.hk"
     text = "Email"
 
   [[params.social]]
